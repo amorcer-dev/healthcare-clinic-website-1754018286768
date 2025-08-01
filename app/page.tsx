@@ -16,7 +16,7 @@ export default function Home() {
       <div className="custom:hidden flex flex-col items-center space-y-6">
       <WidgetProfile
         doctorName="Dr. Alan Achilles"
-        specialty="Family Medicine"
+        specialty="Cool guy"
         patients="2,500+"
         experience="10+ years"
         rating="4.9"
@@ -217,7 +217,7 @@ export default function Home() {
         <div className="custom:sticky custom:top-8 custom:self-start space-y-6">
       <WidgetProfile
         doctorName="Dr. Alan Achilles"
-        specialty="Family Medicine"
+        specialty="Cool guy"
         patients="2,500+"
         experience="10+ years"
         rating="4.9"
