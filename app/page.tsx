@@ -15,12 +15,12 @@ export default function Home() {
       {/* Mobile Layout - Single Column (Centered) */}
       <div className="custom:hidden flex flex-col items-center space-y-6">
       <WidgetProfile
-        doctorName="Dr. Sarah Smith"
+        doctorName="Dr. Alan Achilles"
         specialty="Family Medicine"
         patients="2,500+"
         experience="10+ years"
         rating="4.9"
-        imageSrc="/Storefront/Doctor Widget/DoctorImage.png"
+        imageSrc="/Storefront/Doctor Widget/Doctor Image.png"
         profileImage=""
         className=""
       />
@@ -216,12 +216,12 @@ export default function Home() {
         {/* Column 1: Sticky Profile Widget */}
         <div className="custom:sticky custom:top-8 custom:self-start space-y-6">
       <WidgetProfile
-        doctorName="Dr. Sarah Smith"
+        doctorName="Dr. Alan Achilles"
         specialty="Family Medicine"
         patients="2,500+"
         experience="10+ years"
         rating="4.9"
-        imageSrc="/Storefront/Doctor Widget/DoctorImage.png"
+        imageSrc="/Storefront/Doctor Widget/Doctor Image.png"
         profileImage=""
         className=""
       />
